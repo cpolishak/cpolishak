@@ -1,4 +1,4 @@
-# 💫About Me :
+# About Me :
 I have over 2 years of professional experience as a back-end software engineer working to help create, maintain and update microservices built with NodeJS and Javascript for Fintech companies. 
 I am focused on improving myself to become a well rounded full stack engineer and enjoy projects utilizing both front and back-end development. 
 My soft skills are top notch from working over 10 years in outside sales prior to becoming a developer. 
