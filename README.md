@@ -1,11 +1,11 @@
-# About Me :
+# About Me
 I have over 2 years of professional experience as a back-end software engineer working to help create, maintain and update microservices built with NodeJS and Javascript for Fintech companies. 
 I am focused on improving myself to become a well rounded full stack engineer and enjoy projects utilizing both front and back-end development. 
 My soft skills are top notch from working over 10 years in outside sales prior to becoming a developer. 
 I am especially proud of my ability to work independently or collaboratively as part of a team and I am an excellent communicator. 
 I also have proficiency in graphic design to create digital media utilizing Adobe Photoshop and Illustrator.
 
-## Socials
+# Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chrispolishak/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/cpolish) 
 
 # Tech Stack
