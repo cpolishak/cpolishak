@@ -1,8 +1,8 @@
 # About Me
-I have over 2.5 years of professional experience as a back-end software engineer working to help create, maintain and update microservices built with NodeJS and Javascript for Fintech companies. 
-I am focused on improving myself to become a well rounded full stack engineer and enjoy projects utilizing both front and back-end development. 
+I have over 2.5 years of professional Software Engineering experience (2 years in Backend w/ Node/JS and over half of a year in Full Stack w/Ruby/Node/React/JS and Typescript).
+I am focused on improving my skills to become a full-fledged badass Full Stack Engineer.
 My soft skills are top notch from working over 10 years in outside sales prior to becoming a developer. 
-I am especially proud of my ability to work independently or collaboratively as part of a team and I am an excellent communicator. 
+I am especially proud of my ability to work independently or collaboratively as part of a team in addition to being an excellent communicator. 
 I also have proficiency in graphic design to create digital media utilizing Adobe Photoshop and Illustrator.
 
 # Socials
