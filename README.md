@@ -1,5 +1,5 @@
 # About Me
-I have over 2.5 years of professional Software Engineering experience (2 years in Backend w/ Node/JS and over half of a year in Full Stack w/Ruby/Node/React/JS and Typescript).
+I have over 2.5 years of professional Software Engineering experience (2+ years in Backend w/ Node/JS and over half of a year in Full Stack w/Ruby/Node/React/JS and Typescript).
 I am focused on improving my skills to become a full-fledged badass Full Stack Engineer.
 My soft skills are top notch from working over 10 years in outside sales prior to becoming a developer. 
 I am especially proud of my ability to work independently or collaboratively as part of a team in addition to being an excellent communicator. 
