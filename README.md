@@ -1,10 +1,9 @@
 # About Me
-I have over 4 years of professional Software Engineering experience (2+ years in Backend w/ Node/JS and 2+ years in Full Stack w/Ruby/Node/React/JS and Typescript).
+I have over 4 years of professional Software Engineering experience (2+ years in Backend microservices/APIs using Node & JS and 2+ years in Full Stack using Ruby/Rails/Node/React/JS and Typescript). I am a kick ass full-stack developer and resource.
 
-I am focused on improving my skills to become a full-fledged badass Full Stack Engineer.
-My soft skills are top notch from working over 10 years in outside sales prior to becoming a developer. I have been serving as Scrum Master for teams within my organization to 
-I am especially proud of my ability to work independently or collaboratively as part of a team in addition to being an excellent communicator. 
-I also have proficiency in graphic design to create digital media utilizing Adobe Photoshop and Illustrator.
+As a person: My soft skills are top notch from working over 10 years in outside sales prior to becoming a developer. I have excellent interpersonal skills, I can relate the technical to the non-technical, I am comfortable presenting and doing demonstrations, I am a natural leader, and much more! 
+
+As a software engineer: I work great alone and as part of a team, I am self-motivated, I have great time management skills, I can work without explicit direction and take initiative, I am a creative thinker, a problem solver, a mentor and teacher to others, a diligent note taker and document writer, and more. I have been serving as Scrum Master for teams within my organization facilitating scrum activities, driving discussions and resolutions, improving processes, and working cross-functionally to unblock impediments to help deliver on commitments. 
 
 # Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chrispolishak/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/cpolish) 
