@@ -1,7 +1,7 @@
 # About Me
 I have over 4 years of professional Software Engineering experience (2+ years in Backend microservices/APIs using Node & JS and 2+ years in Full Stack using Ruby/Rails/Node/React/JS and Typescript). I am a kick ass full-stack developer and excel in SE and customer focused roles.
 
-As a person: I get stuff done, I am a natural leader, and I have an endless curiousity to learn. My soft skills and emotional intelligence are top notch from working over 10 years in sales and account management prior to becoming a developer. I have excellent interpersonal skills, I can relate the technical to the non-technical, I am comfortable presenting and doing demonstrations and much more! 
+As a person: I get stuff done, I have an endless curiousity for learning and I am a natural leader. My soft skills and emotional intelligence are top notch from working over 10 years in sales and account management prior to becoming a developer. I have excellent interpersonal skills, I can relate the technical to the non-technical, I am comfortable presenting and doing demonstrations and much more! 
 
 As a software engineer: I work great alone and as part of a team, I am self-motivated, I have great time management skills, I can work without explicit direction and take initiative, I am a creative thinker, a problem solver, a mentor and teacher to others, a diligent note taker and document writer, and more. I have been serving as Scrum Master for teams within my organization facilitating scrum activities, driving discussions and resolutions, improving processes, and working cross-functionally to unblock impediments to help deliver on commitments. 
 
